@@ -1,0 +1,41 @@
+
+/*Шрифт Varela*/
+
+@font-face {
+  font-family: 'VarelaRound';
+  src: url('VarelaRound.eot');
+  src: url('VarelaRound.woff2') format('woff2'),
+       url('VarelaRound.woff') format('woff'),
+       url('VarelaRound.ttf') format('truetype'),
+       url('VarelaRound.svg#VarelaRound') format('svg'),
+       url('VarelaRound.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Шрифт  ProximaNova-Regular*/
+	@font-face {
+			font-family: "ProximaNova-Regular";
+			src: url("../fonts/ProximaNova-Regular/ProximaNova-Regular.eot"),
+
+			url("../fonts/ProximaNova-Regular/ProximaNova-Regular.woff") format("woff"),
+			url("../fonts/ProximaNova-Regular/ProximaNova-Regular.ttf") format("truetype"),
+			url("../fonts/ProximaNova-Regular/ProximaNova-Regular.svg#webfont") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+@font-face {
+			font-family: "ProximaNova-Bold";
+			src: url("../fonts/ProximaNova-Bold/ProximaNova-Bold.eot"),
+
+			url("../fonts/ProximaNova-Bold/ProximaNova-Bold.woff") format("woff"),
+			url("../fonts/ProximaNova-Bold/ProximaNova-Bold.ttf") format("truetype"),
+			url("../fonts/ProximaNova-Bold/ProximaNova-Bold.svg#webfont") format("svg");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	
+
+
